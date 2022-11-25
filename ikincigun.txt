@@ -1,0 +1,9 @@
+birinci calısma
+ikinci calisma
+Emin brach de deneme yapama
+emin branch de2. değişik
+ücüncü gün calısma
+<<<<<<< HEAD
+ücüncü gün ikinci calısma
+=======
+>>>>>>> baa4014110ec1a2c255976746de472208677ef7e
